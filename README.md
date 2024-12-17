@@ -1,2 +1,2 @@
-# arduino_reflective_lcd_display
+# Arduino Reflective LCD Display
 Arduino Reflective LCD Display
